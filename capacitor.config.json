@@ -1,0 +1,7 @@
+{
+  "appId": "com.ecosdelfarol.game",
+  "appName": "Ecos del Farol",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": true }
+}
